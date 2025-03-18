@@ -1,6 +1,6 @@
 DevFolio Portfolio Template
 
-#repo : https://ahmedsayed26.github.io/DevFlio2/ 
+#repo : https://ahmedsayed26.github.io/DevFlio2/
 
 DevFolio is a comprehensive, modern portfolio website template designed for developers and creative professionals to showcase their skills, experience, and projects. This template features a clean, responsive design that works seamlessly across all devices.
 
